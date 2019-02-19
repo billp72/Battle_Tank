@@ -4,3 +4,5 @@ Open-world, head-to-head tank fight with simple Ai, tarrain control system in Un
 * create design document
 * build tank body out of primitives
 * create world and landscape
+
+1) setting up and using sourcetree for github
